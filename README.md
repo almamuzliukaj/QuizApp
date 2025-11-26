@@ -35,7 +35,7 @@ This project highlights key mobile development techniques:
 
 | Quiz Screen | Correct Answer Feedback | Results Screen |
 | :---------------------------: | :-------------------: | :---------------------------: |
-| <img src="assets/QuizApp.jpeg" alt="Initial quiz question screen with options" width="180"/> | <img src="assets/QuizApp1.jpeg" alt="Quiz screen showing correct answer feedback" width="180"/> | <img src="assets/QuizApp2.jpeg" alt="Final score and percentage results screen" width="180"/> |
+| <img src="assets/QuizApp.jfif" alt="Initial quiz question screen with options" width="180"/> | <img src="assets/QuizApp1.jfif" alt="Quiz screen showing correct answer feedback" width="180"/> | <img src="assets/QuizApp2.jfif" alt="Final score and percentage results screen" width="180"/> |
 
 ---
 
